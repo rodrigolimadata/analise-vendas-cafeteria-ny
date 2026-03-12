@@ -18,7 +18,7 @@ O foco da análise foi ir além do faturamento bruto, buscando insights que impa
 ## 📊 Dashboard Final
 Abaixo, a visão executiva construída no Power BI para acompanhamento diário dos indicadores:
 
-![Dashboard Faturamento](dashboard.png)
+![Dashboard Faturamento](Dashboard Faturamento.pdf)
 
 ## 👤 Sobre o Autor
 Formado em Administração e atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP. Possuo 3 anos de experiência empreendendo em negócio próprio e um histórico comprovado de otimização de operações, respaldado por experiência analítica na Citeluz e Papel & Cia, com foco no monitoramento de KPIs e metas organizacionais. Atualmente busco uma oportunidade de estágio em Ciência de Dados para aplicar essa visão de negócios na resolução de problemas complexos.
